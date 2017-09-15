@@ -1,6 +1,6 @@
 # I. High Concept #
-	A platformer where the player must scroll over platforms 
-	to make them expand while avoiding traps.
+A platformer where the player must scroll over platforms 
+to make them expand while avoiding traps.
 	
 # II. Genre #
 	Platformer with puzzle elements.
