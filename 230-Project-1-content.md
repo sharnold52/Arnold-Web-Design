@@ -44,8 +44,10 @@ that forces the players to do this faster.
 # VII. Screenshots #
 Umm... no game yet, but here is a possible style for the 
 type of graphics I would be going for.
+
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/disp/ee192a56305671.59a8938a4a9ee.gif)
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/disp/4b8de156305671.59a8938a48e5c.gif)
+
 These are animations I made for another project, 
 but I feel like the art-style would work here as well.
 
