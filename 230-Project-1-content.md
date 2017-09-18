@@ -1,6 +1,6 @@
 # I. High Concept #
-A platformer where the player must scroll over platforms 
-to make them expand while avoiding traps.
+A platformer where the player must use magic to 
+create platforms and solve puzzles
 	
 # II. Genre #
 Platformer with puzzle elements.
@@ -9,14 +9,13 @@ Platformer with puzzle elements.
 Desktop only. Mouse and keyboard are kind of necessarry.
 	
 # IV. Story #
-Not really much to talk about here... maybe I could make 
-something up about the player being a wizard trying to stop 
-snowmen from taking over... I don't know. Nothing serious 
-obviously.
+The game does not have a big focus on story. There is a
+loose narrative about an evil wizard that you must stop
+using magic and solving puzzles.
 	
 # V. Aesthetics #
-Cartoonish art style... that is really dependent upon my 
-art skills. Maybe go with pixelated
+It will be a cartoon art style, or at least an attempt at one. This is really dependent upon my 
+art skills. It will probably be a pixelated style, like the gifs I link below in screenshots.
 Sound: 8-bit would probably work the best for this. Simple 
 sound effects for jumping, maybe nature sounds since 
 I would most likely have the setting be outdoors.
@@ -53,16 +52,9 @@ but I feel like the art-style would work here as well.
 
 # VIII. Other #
 I would like to add more abilities, but I also am not really
-sure what is feasible yet. Other abilities might be the ability
-to spawn monkeys.... they don't particularly do anything... 
-they just sort of laugh at you.
-
-Ok, but seriously I would like to maybe have platforms that 
-randomly generate, an ability to cause a warp-field or something 
-else that just sounds awesome.
+sure what is feasible yet. 
 
 # IX. About the Developer #
 Name: Sean Arnold
 Major: Game Design and Development
-Interestes: Long w
-Interestes: Gaming, Animating, Level Design, coding (somewhat)
+Interests: Gaming, Animating, Level Design, coding (somewhat)
